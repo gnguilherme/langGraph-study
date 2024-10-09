@@ -9,3 +9,5 @@ notebook
 tavily-python
 wikipedia
 pandas
+langchain_experimental
+matplotlib
